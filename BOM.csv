@@ -1,0 +1,17 @@
+Identifier,Plain Name,Optional?,Approximate Price,Part Number,LCSC Link,Digikey Link,Aliexpress Link
+U1,Microcontroller (MCU),No,$2.25,PIC16F1459-I/P,https://www.lcsc.com/product-detail/Pre-ordered-MCUs_Microchip-Tech-PIC16F1459-I-P_C647052.html,https://www.digikey.com/en/products/detail/microchip-technology/PIC16F1459-I-P/3671489,https://www.aliexpress.com/item/1005001400568531.html
+U2,IR Data Receiver,Yes,$0.10,IRM-56384,https://www.lcsc.com/product-detail/Infrared-remote-receiver_Everlight-Elec-IRM-56384_C72048.html,https://www.digikey.com/en/products/detail/everlight-electronics-co-ltd/IRM-3738T/2693803,https://www.aliexpress.com/item/1005003121460929.html
+J1,USB 2.0 B Connector Right-Angle,No,$0.05,,https://www.lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-921-111A1010D10200_C46392.html,https://www.digikey.com/en/products/detail/adam-tech/USB-B-S-RA-WT-SPCC/9832261,https://www.aliexpress.com/item/4000656039723.html
+D1,Red Power LED 3mm,Yes,$0.02,,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TUOZHAN-TZ-L2-03YYBR2RDJ30-003_C779429.html,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/151031SS06000/4489982,https://www.aliexpress.com/item/4000334908453.html
+D2,Green Status LED 3mm,Yes,$0.02,,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TUOZHAN-TZ-L2-03YYBG2GDJ30-001_C779433.html,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/151031VS06000/4489988,https://www.aliexpress.com/item/4000334908453.html
+C1,Bulk Capacitor X.Xmm,Yes,,,,,
+C2,Bulk Capacitor X.Xmm,Yes,,,,,
+C3,Decoupling Capacitor,Yes,,,,,
+S1,Help Button 12mm Tactile Switch,Yes,$0.04,,https://www.lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1003-BR04516_C720346.html,https://www.digikey.com/en/products/detail/cit-relay-and-switch/CT1103AF180/12502982,https://www.aliexpress.com/item/32726177349.html
+S2,Mode Selection Slide Switch,Yes,$0.03,SS-12D01-G2,https://www.lcsc.com/product-detail/Slide-Switches_USAKRO-SS-12D01-G2_C698215.html,https://www.digikey.com/en/products/detail/e-switch/EG1218/101726,https://www.aliexpress.com/item/1005003305439160.html
+R1,Power LED Current-Limiter,Yes,$0.01,470ohm PTH,https://www.lcsc.com/product-detail/Through-Hole-Resistors_CCO-Chian-Chia-Elec-CF1-4W-470-5-T52_C120047.html,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT470R/1741440,https://www.aliexpress.com/item/1005002369557854.html
+R2,Status LED Current-Limiter,Yes,$0.01,330ohm PTH,https://www.lcsc.com/product-detail/Through-Hole-Resistors_CCO-Chian-Chia-Elec-CF1-4W-330-5-T52_C120043.html,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT330R/1741399,https://www.aliexpress.com/item/1005002369557854.html
+R3,9-Ganged High Value Resistor,No,$0.65,10-30Mohm 10-SIP,,https://www.digikey.com/en/products/detail/bourns-inc/4610X-101-106LF/2565755,
+R4,Help Button Pullup,Yes,$0.01,~10Kohm PTH,https://www.lcsc.com/product-detail/Through-Hole-Resistors_CCO-Chian-Chia-Elec-CF1-4W-13K-5-T52_C120082.html,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265,https://www.aliexpress.com/item/1005002369557854.html
+Cables,Alligator Clip Cables x10,Yes,$0.75,,,https://www.amazon.com/dp/B07QYT5H66,https://www.aliexpress.com/item/32980537318.html
+Total,,,$3.94,,,,
